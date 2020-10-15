@@ -1,6 +1,6 @@
 # _da1
 
-           PROCESS OF CITHUB WORKING METHODALOGY:
+           PROCESS OF GITHUB WORKING METHODALOGY:
 
 What is GitHub?
 
